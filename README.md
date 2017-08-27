@@ -1,14 +1,13 @@
-# Multiscale retinex with color restoration
+# Variational Retinex-based model
+
+The model is based on an anti-spoofing algorithm for face recognition.
 
 ## Description
-Python implementation of multiscale retinex with color restoration.
+Python implementation of multiscale retinex model.
 
 ## Requirement
 * Numpy
 * OpenCV
-
-## How to
-Place test data into data folder and execute run.py.
 
 ## Reference
 * [A multiscale retinex for bridging the gap between color images and the human observation of scenes] (http://ieeexplore.ieee.org/document/597272/)
