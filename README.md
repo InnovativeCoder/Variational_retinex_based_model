@@ -1,7 +1,5 @@
 # Variational Retinex-based model
-
 The model is based on an anti-spoofing algorithm for face recognition.
-
 ## Description
 Python implementation of multiscale retinex model.
 
